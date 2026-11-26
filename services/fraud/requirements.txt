@@ -1,0 +1,4 @@
+flask==3.1.0
+gunicorn==23.0.0
+requests==2.32.3
+kestrel-commons @ https://github.com/kestrel-prints-lab/fixture-commons/archive/bf977f34ea668609cef340dc27b626766c3763b5.tar.gz
